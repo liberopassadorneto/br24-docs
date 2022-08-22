@@ -1,0 +1,15 @@
+{
+  "title": "Post",
+  "slug": "/category/post",
+  "permalink": "/category/post",
+  "navigation": {
+    "previous": {
+      "title": "Introdução",
+      "permalink": "/"
+    },
+    "next": {
+      "title": "Atualizar uma assinatura",
+      "permalink": "/Assinatura/upgrade-a-subscription"
+    }
+  }
+}

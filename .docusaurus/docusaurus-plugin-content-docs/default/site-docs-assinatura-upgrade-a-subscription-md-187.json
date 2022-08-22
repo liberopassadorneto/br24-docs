@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Assinatura/upgrade-a-subscription",
+  "id": "Assinatura/upgrade-a-subscription",
+  "title": "Atualizar uma assinatura",
+  "description": "",
+  "source": "@site/docs/Assinatura/upgrade-a-subscription.md",
+  "sourceDirName": "Assinatura",
+  "slug": "/Assinatura/upgrade-a-subscription",
+  "permalink": "/Assinatura/upgrade-a-subscription",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Assinatura/upgrade-a-subscription.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Assinaturas",
+    "permalink": "/category/assinaturas"
+  },
+  "next": {
+    "title": "Tutorial - Basics",
+    "permalink": "/category/tutorial---basics"
+  }
+}

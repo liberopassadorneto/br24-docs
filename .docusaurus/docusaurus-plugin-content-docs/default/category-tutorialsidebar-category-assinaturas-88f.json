@@ -1,0 +1,15 @@
+{
+  "title": "Assinaturas",
+  "slug": "/category/assinaturas",
+  "permalink": "/category/assinaturas",
+  "navigation": {
+    "previous": {
+      "title": "Introdução",
+      "permalink": "/"
+    },
+    "next": {
+      "title": "Atualizar uma assinatura",
+      "permalink": "/subscription/upgrade-a-subscription"
+    }
+  }
+}
