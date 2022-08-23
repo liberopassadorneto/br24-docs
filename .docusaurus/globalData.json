@@ -16,63 +16,38 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "subscription/upgrade-a-subscription",
-              "path": "/subscription/upgrade-a-subscription",
+              "id": "whatsapp/billing/add-subscription",
+              "path": "/whatsapp/billing/add-subscription",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/congratulations",
-              "path": "/tutorial-basics/congratulations",
+              "id": "whatsapp/billing/change-to-new-plan",
+              "path": "/whatsapp/billing/change-to-new-plan",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-blog-post",
-              "path": "/tutorial-basics/create-a-blog-post",
+              "id": "whatsapp/billing/get-products",
+              "path": "/whatsapp/billing/get-products",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-document",
-              "path": "/tutorial-basics/create-a-document",
+              "id": "whatsapp/billing/get-subscription",
+              "path": "/whatsapp/billing/get-subscription",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-page",
-              "path": "/tutorial-basics/create-a-page",
+              "id": "whatsapp/billing/update-subscription",
+              "path": "/whatsapp/billing/update-subscription",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/deploy-your-site",
-              "path": "/tutorial-basics/deploy-your-site",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-basics/markdown-features",
-              "path": "/tutorial-basics/markdown-features",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-extras/manage-docs-versions",
-              "path": "/tutorial-extras/manage-docs-versions",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-extras/translate-your-site",
-              "path": "/tutorial-extras/translate-your-site",
+              "id": "/category/integrador-whatsapp",
+              "path": "/category/integrador-whatsapp",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/assinatura",
               "path": "/category/assinatura",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "/category/tutorial---basics",
-              "path": "/category/tutorial---basics",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "/category/tutorial---extras",
-              "path": "/category/tutorial---extras",
               "sidebar": "tutorialSidebar"
             }
           ],

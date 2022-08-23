@@ -56,8 +56,8 @@ const config = {
           alt: 'Br24 Logo',
           src: 'img/logo_2.svg',
           srcDark: 'img/logo_2_dark.svg',
-          width: 64,
-          height: 64,
+          width: 128,
+          height: 128,
         },
       },
       footer: {

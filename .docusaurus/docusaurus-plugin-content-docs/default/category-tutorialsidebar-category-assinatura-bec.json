@@ -4,12 +4,12 @@
   "permalink": "/category/assinatura",
   "navigation": {
     "previous": {
-      "title": "Introdução",
-      "permalink": "/"
+      "title": "Integrador WhatsApp",
+      "permalink": "/category/integrador-whatsapp"
     },
     "next": {
-      "title": "Atualizar uma assinatura",
-      "permalink": "/subscription/upgrade-a-subscription"
+      "title": "Ler assinatura",
+      "permalink": "/whatsapp/billing/get-subscription"
     }
   }
 }

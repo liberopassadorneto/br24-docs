@@ -4,8 +4,8 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "My Site",
-  "tagline": "Dinosaurs are cool",
+  "title": "Br24-API Docs",
+  "tagline": "Br24-API Docs",
   "url": "https://your-docusaurus-test-site.com",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
@@ -41,29 +41,18 @@ export default {
     "navbar": {
       "logo": {
         "alt": "Br24 Logo",
-        "src": "img/br24_logo.svg",
-        "srcDark": "img/br24_logo_dark.svg",
-        "href": "https://br24.io/"
+        "src": "img/logo_2.svg",
+        "srcDark": "img/logo_2_dark.svg",
+        "width": 128,
+        "height": 128
       },
-      "items": [
-        {
-          "type": "doc",
-          "docId": "intro",
-          "position": "left",
-          "label": "Docs"
-        },
-        {
-          "href": "https://github.com/liberopassadorneto/br24-docs",
-          "label": "GitHub",
-          "position": "right"
-        }
-      ],
-      "hideOnScroll": false
+      "hideOnScroll": false,
+      "items": []
     },
     "footer": {
       "style": "dark",
-      "links": [],
-      "copyright": "Made with ❤️ by Br24"
+      "copyright": "Made with ❤️ by Br24",
+      "links": []
     },
     "prism": {
       "theme": {

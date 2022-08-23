@@ -42,14 +42,7 @@
       "plugin": "plugin---docusaurus-debug-88-e-ef5"
     }
   },
-  "/markdown-page-a63": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
-    "__context": {
-      "plugin": "plugin---markdown-pagee-94-b75"
-    },
-    "content": "content---markdown-page-393-028"
-  },
-  "/-048": {
+  "/-d1e": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---877-32c"
@@ -64,48 +57,28 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---category-assinatura-77-a-116"
   },
-  "/category/tutorial---basics-72e": {
+  "/category/integrador-whatsapp-159": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---category-tutorial-basicsb-38-d69"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---category-integrador-whatsappea-6-946"
   },
-  "/category/tutorial---extras-3d7": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---category-tutorial-extrasfef-d24"
-  },
-  "/subscription/upgrade-a-subscription-f7d": {
+  "/whatsapp/billing/add-subscription-9fe": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---subscription-upgrade-a-subscription-82-c-054"
+    "content": "content---whatsapp-billing-add-subscriptionc-2-f-d05"
   },
-  "/tutorial-basics/congratulations-4b2": {
+  "/whatsapp/billing/change-to-new-plan-1e9": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tutorial-basics-congratulations-822-79f"
+    "content": "content---whatsapp-billing-change-to-new-planc-80-f35"
   },
-  "/tutorial-basics/create-a-blog-post-93c": {
+  "/whatsapp/billing/get-products-abe": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tutorial-basics-create-a-blog-post-533-8b3"
+    "content": "content---whatsapp-billing-get-productsf-24-61f"
   },
-  "/tutorial-basics/create-a-document-58e": {
+  "/whatsapp/billing/get-subscription-d4e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tutorial-basics-create-a-document-1-e-4-f30"
+    "content": "content---whatsapp-billing-get-subscription-980-c4c"
   },
-  "/tutorial-basics/create-a-page-e6a": {
+  "/whatsapp/billing/update-subscription-b72": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tutorial-basics-create-a-page-5-c-8-d8b"
-  },
-  "/tutorial-basics/deploy-your-site-317": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tutorial-basics-deploy-your-sitef-55-bcd"
-  },
-  "/tutorial-basics/markdown-features-04e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tutorial-basics-markdown-features-18-c-d7b"
-  },
-  "/tutorial-extras/manage-docs-versions-975": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tutorial-extras-manage-docs-versionsdff-033"
-  },
-  "/tutorial-extras/translate-your-site-ac7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tutorial-extras-translate-your-sitee-44-f13"
+    "content": "content---whatsapp-billing-update-subscription-257-bbd"
   }
 }

@@ -13,12 +13,12 @@
   "version": "current",
   "sidebarPosition": 1,
   "frontMatter": {
-    "sidebar_position": 1,
-    "slug": "/"
+    "slug": "/",
+    "sidebar_position": 1
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Assinatura",
-    "permalink": "/category/assinatura"
+    "title": "Integrador WhatsApp",
+    "permalink": "/category/integrador-whatsapp"
   }
 }

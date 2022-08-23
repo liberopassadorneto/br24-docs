@@ -1,0 +1,28 @@
+{
+  "unversionedId": "whatsapp/billing/add-subscription",
+  "id": "whatsapp/billing/add-subscription",
+  "title": "Criar assinatura",
+  "description": "Método",
+  "source": "@site/docs/whatsapp/billing/add-subscription.md",
+  "sourceDirName": "whatsapp/billing",
+  "slug": "/whatsapp/billing/add-subscription",
+  "permalink": "/whatsapp/billing/add-subscription",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/whatsapp/billing/add-subscription.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_label": "Criar assinatura",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ler produtos",
+    "permalink": "/whatsapp/billing/get-products"
+  },
+  "next": {
+    "title": "Atualizar assinatura",
+    "permalink": "/whatsapp/billing/update-subscription"
+  }
+}

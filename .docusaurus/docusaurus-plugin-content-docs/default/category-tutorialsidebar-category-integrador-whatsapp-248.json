@@ -1,0 +1,16 @@
+{
+  "title": "Integrador WhatsApp",
+  "description": "WhatsApp Integrator Docs",
+  "slug": "/category/integrador-whatsapp",
+  "permalink": "/category/integrador-whatsapp",
+  "navigation": {
+    "previous": {
+      "title": "Introdução",
+      "permalink": "/"
+    },
+    "next": {
+      "title": "Assinatura",
+      "permalink": "/category/assinatura"
+    }
+  }
+}

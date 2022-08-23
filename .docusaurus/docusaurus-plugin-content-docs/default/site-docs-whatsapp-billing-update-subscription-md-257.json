@@ -1,0 +1,28 @@
+{
+  "unversionedId": "whatsapp/billing/update-subscription",
+  "id": "whatsapp/billing/update-subscription",
+  "title": "Atualizar assinatura",
+  "description": "Método",
+  "source": "@site/docs/whatsapp/billing/update-subscription.md",
+  "sourceDirName": "whatsapp/billing",
+  "slug": "/whatsapp/billing/update-subscription",
+  "permalink": "/whatsapp/billing/update-subscription",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/whatsapp/billing/update-subscription.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_label": "Atualizar assinatura",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Criar assinatura",
+    "permalink": "/whatsapp/billing/add-subscription"
+  },
+  "next": {
+    "title": "Atualizar plano",
+    "permalink": "/whatsapp/billing/change-to-new-plan"
+  }
+}

@@ -5,12 +5,12 @@
   "permalink": "/category/tutorial---basics",
   "navigation": {
     "previous": {
-      "title": "Atualizar uma assinatura",
-      "permalink": "/subscription/upgrade-a-subscription"
+      "title": "Introdução",
+      "permalink": "/"
     },
     "next": {
-      "title": "Create a Page",
-      "permalink": "/tutorial-basics/create-a-page"
+      "title": "auth",
+      "permalink": "/whatsapp/billing/auth"
     }
   }
 }

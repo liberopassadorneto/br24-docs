@@ -38,13 +38,8 @@ export default [
     exact: true
   },
   {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', 'a63'),
-    exact: true
-  },
-  {
     path: '/',
-    component: ComponentCreator('/', '048'),
+    component: ComponentCreator('/', 'd1e'),
     routes: [
       {
         path: '/',
@@ -59,68 +54,38 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/category/tutorial---basics',
-        component: ComponentCreator('/category/tutorial---basics', '72e'),
+        path: '/category/integrador-whatsapp',
+        component: ComponentCreator('/category/integrador-whatsapp', '159'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/category/tutorial---extras',
-        component: ComponentCreator('/category/tutorial---extras', '3d7'),
+        path: '/whatsapp/billing/add-subscription',
+        component: ComponentCreator('/whatsapp/billing/add-subscription', '9fe'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/subscription/upgrade-a-subscription',
-        component: ComponentCreator('/subscription/upgrade-a-subscription', 'f7d'),
+        path: '/whatsapp/billing/change-to-new-plan',
+        component: ComponentCreator('/whatsapp/billing/change-to-new-plan', '1e9'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/tutorial-basics/congratulations',
-        component: ComponentCreator('/tutorial-basics/congratulations', '4b2'),
+        path: '/whatsapp/billing/get-products',
+        component: ComponentCreator('/whatsapp/billing/get-products', 'abe'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/tutorial-basics/create-a-blog-post',
-        component: ComponentCreator('/tutorial-basics/create-a-blog-post', '93c'),
+        path: '/whatsapp/billing/get-subscription',
+        component: ComponentCreator('/whatsapp/billing/get-subscription', 'd4e'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/tutorial-basics/create-a-document',
-        component: ComponentCreator('/tutorial-basics/create-a-document', '58e'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/tutorial-basics/create-a-page',
-        component: ComponentCreator('/tutorial-basics/create-a-page', 'e6a'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/tutorial-basics/deploy-your-site',
-        component: ComponentCreator('/tutorial-basics/deploy-your-site', '317'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/tutorial-basics/markdown-features',
-        component: ComponentCreator('/tutorial-basics/markdown-features', '04e'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/tutorial-extras/manage-docs-versions',
-        component: ComponentCreator('/tutorial-extras/manage-docs-versions', '975'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/tutorial-extras/translate-your-site',
-        component: ComponentCreator('/tutorial-extras/translate-your-site', 'ac7'),
+        path: '/whatsapp/billing/update-subscription',
+        component: ComponentCreator('/whatsapp/billing/update-subscription', 'b72'),
         exact: true,
         sidebar: "tutorialSidebar"
       }

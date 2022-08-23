@@ -1,0 +1,28 @@
+{
+  "unversionedId": "whatsapp/billing/get-products",
+  "id": "whatsapp/billing/get-products",
+  "title": "Ler produtos",
+  "description": "Método",
+  "source": "@site/docs/whatsapp/billing/get-products.md",
+  "sourceDirName": "whatsapp/billing",
+  "slug": "/whatsapp/billing/get-products",
+  "permalink": "/whatsapp/billing/get-products",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/whatsapp/billing/get-products.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_label": "Ler produtos",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ler assinatura",
+    "permalink": "/whatsapp/billing/get-subscription"
+  },
+  "next": {
+    "title": "Criar assinatura",
+    "permalink": "/whatsapp/billing/add-subscription"
+  }
+}
